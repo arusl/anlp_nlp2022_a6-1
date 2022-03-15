@@ -16,8 +16,8 @@ The dataset used in the experiments can be downloaded from the below links, and 
 * [`amazon-enja-sentiment-dataset/`](https://github.com/awslabs/open-data-docs/tree/main/docs/amazon-reviews-ml)
 * [`rakuten-sentiment-dataset/`](https://github.com/zhangxiangxiao/glyph)
 * `indonesian-sentiment-dataset/`
-  * [indolem/](https://github.com/indolem/indolem/tree/main/sentiment)
-  * [indonlu/](https://github.com/indobenchmark/indonlu/tree/master/dataset/smsa_doc-sentiment-prosa)
+  * [`indolem/`](https://github.com/indolem/indolem/tree/main/sentiment)
+  * [`indonlu/`](https://github.com/indobenchmark/indonlu/tree/master/dataset/smsa_doc-sentiment-prosa)
 
 ## Model Files
 
