@@ -13,11 +13,11 @@ Conference website: https://www.anlp.jp/nlp2022/index.html.
 ## Datasets
 
 The dataset used in the experiments can be downloaded from the below links, and should be put under a directory named `data/`:
-* [`amazon-enja-sentiment-dataset/`](https://github.com/awslabs/open-data-docs/tree/main/docs/amazon-reviews-ml)
-* [`rakuten-sentiment-dataset/`](https://github.com/zhangxiangxiao/glyph)
+* `amazon-enja-sentiment-dataset/` [(source)](https://github.com/awslabs/open-data-docs/tree/main/docs/amazon-reviews-ml)
+* `rakuten-sentiment-dataset/` [(source)](https://github.com/zhangxiangxiao/glyph)
 * `indonesian-sentiment-dataset/`
-  * [`indolem/`](https://github.com/indolem/indolem/tree/main/sentiment)
-  * [`indonlu/`](https://github.com/indobenchmark/indonlu/tree/master/dataset/smsa_doc-sentiment-prosa)
+  * `indolem/` [(source)](https://github.com/indolem/indolem/tree/main/sentiment)
+  * `indonlu/` [(source)](https://github.com/indobenchmark/indonlu/tree/master/dataset/smsa_doc-sentiment-prosa)
 
 ## Model Files
 
