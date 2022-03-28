@@ -2,7 +2,7 @@
 
 This repository contains codes related to the experiments in the following research paper.
 
-> Paper Title: **On the Applicability of Zero-Shot Cross-Lingual Transfer Learning for Sentiment Classification in Distant Language Pairs**
+> Paper Title: **On the Applicability of Zero-Shot Cross-Lingual Transfer Learning for Sentiment Classification in Distant Language Pairs** [(PDF)](https://www.anlp.jp/nlp2022/proceedings_2022/pdf_dir/A6-1.pdf)
 > 
 > Authors: **Andre Rusli** and **Makoto Shishido** (Tokyo Denki University)
 
